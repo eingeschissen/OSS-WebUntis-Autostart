@@ -1,0 +1,13 @@
+Change Logs
+
+Version 1.0.2 - 19.09.2024
++improvement of update.exe
++improvement & structuring of start.exe
++OSS and WebUntis are now run separately
++faster login
+
+Version 1.0.1 - 18.09.2024
++added update.exe to to update automatically
+
+Version 1.0.0 - 17.09.2024
++Recode from batch to python
