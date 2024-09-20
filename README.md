@@ -1,11 +1,12 @@
 ### OSS-WebUntis-Autostart
 
 A script to automatically open OSS and WebUntis if you are annoyed to do it every day.
-It doesn' t save any login data, it only saves and runs locally on your PC.
 
 To start enter your OSS/WebUntis username, password and school informations in the login.txt.
 Then start the start.exe to run the script.
 The update.exe will automatically download updates if any are available.
+
+It doesn' t save any login data, it only saves and runs locally on your PC.
 
 Enter the short form of your School for a more accurate search result.
 
