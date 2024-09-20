@@ -1,4 +1,4 @@
-###OSS-WebUntis-Autostart
+### OSS-WebUntis-Autostart
 
 A script to automatically open OSS and WebUntis if you are annoyed to do it every day.
 It doesn' t save any login data, it only saves and runs locally on your PC.
