@@ -1,0 +1,5 @@
+usernameOSS="USERNAME"
+passwordOSS="PASSWORD"
+usernameWU="USERNAME"
+passwordWU="PASSWORD"
+school="SCHOOL"
