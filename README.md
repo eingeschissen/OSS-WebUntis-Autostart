@@ -1,12 +1,14 @@
 ### OSS-WebUntis-Autostart
 
-A script to automatically open OSS and WebUntis if you are annoyed to do it every day.
+A script to automatically open OSS and WebUntis if you are annoyed to do it everyday.
 
-To start enter your OSS/WebUntis username, password and school informations in the login.txt.
-Then start the start.exe to run the script.
-The update.exe will automatically download updates if any are available.
+To start run the start.exe and enter your OSS/WebUntis username, password and school informations.
+The login informations are saved in the login.txt, so if you want to change something or make a mistake, you can change it there.
+When an update is published, the update.exe will automatically download it.
 
 It doesn't store any login data, everything is saved and run locally on your PC.
+
+Warining: When you start the script all chrome tabs that are open will be closed. Wait until the script is finished executing and then click in the top right corner on revoke all tabs if you had any open.
 
 Enter the short form of your School for a more accurate search result.
 
