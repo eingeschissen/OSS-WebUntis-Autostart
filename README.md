@@ -8,7 +8,7 @@ When an update is published, the update.exe will automatically download it.
 
 It doesn't store any login data, everything is saved and run locally on your PC.
 
-Warining: When you start the script all chrome tabs that are open will be closed because you're running chrome via the chromedriver. Wait until the script is finished executing and then click in the top right corner on revoke all tabs if you had any open.
+_Warning: When you start the script all chrome tabs that are open will be closed because you're running chrome via the chromedriver. Wait until the script is finished executing and then click in the top right corner on revoke all tabs if you had any open._
 
 Don't close the terminal window when the script finished executing otherwise chrome will be closed.
 
